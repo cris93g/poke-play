@@ -1,0 +1,26 @@
+.desc-main {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
+	align-content: stretch;
+}
+.pokemon-icon {
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+}
+.title {
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+}
+.egg-group {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: stretch;
+	align-content: space-around;
+}
